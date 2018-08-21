@@ -1,0 +1,9 @@
+node_modules/
+
+npm-debug.log
+
+.swp
+
+package-lock.json
+
+prepros-6.config
