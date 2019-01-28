@@ -14,13 +14,19 @@
 }
 
 .content{
-
+	display: flex;
 }
 
 .sidebar {
 	background-color: var(--color-grey-dark-1);
+	flex:
+		0 //flex-grow
+		0 //flex-shrink
+		18% //flex-basis
+	;
 }
 
 .hotel-view {
 	background-color: #fff;
+	flex: 1; //it ocuppies all the space it can
 }
