@@ -121,7 +121,7 @@ body {
   height: 7rem;
   background-color: #fff;
   border-bottom: var(--color-grey-light-2);
-  display: block;
+  display: flex;
   justify-content: space-between;
   align-items: center; }
 
